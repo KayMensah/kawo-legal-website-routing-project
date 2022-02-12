@@ -74,15 +74,6 @@
 .btn-lg {
 	margin-top: 5rem;
 }
-footer{
-	/*position: absolute;*/
-	margin-top: 1.5rem;
-	/* bottom: 0; */
-	background-color: lightgrey;
-	width: 100%;
-	padding-top: 1 rem;
-
-}
 
 
 /* ////LOGIN PAGE CSS///// */
@@ -100,15 +91,6 @@ footer{
 	height: 0.1rem;
 	background-color: grey;
 	size: bold;
-}
-footer{
-	/* position: relative; */
-	margin-top: 24rem;
-	bottom: 0;
-	background-color: lightgrey;
-	width: 100%;
-	
-
 }
 .textcolor {
 	color: white;
@@ -133,12 +115,6 @@ footer{
 	height: 0.1rem;
 	background-color: grey;
 	size: bold;
-}
-footer{
-	position: relative;
-	background-color: lightgrey;
-	width: 100%;
-
 }
 .textcolor {
 	color: white;
@@ -166,12 +142,6 @@ footer{
 	background-color: grey;
 	size: bold;
 }
-footer{
-	position: relative;
-	background-color: lightgrey;
-	width: 100%;
-	margin-top: 22rem;
-}
 .textcolor {
 	color: white;
 }
@@ -183,4 +153,14 @@ footer{
 }
 .fab {
 	padding-left: 30px;
+}
+
+.main-section{
+	min-height: 100vh;
+}
+
+footer{
+	position: relative;
+	background-color: lightgrey;
+	width: 100%;
 }
